@@ -1,5 +1,5 @@
 # CS-Clothes
-extra clothes for Minetest's server Citysim
+Extra clothes for Minetest's server Citysim
 
 Bob requested the ninja outfit
 
